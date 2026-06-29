@@ -21,6 +21,11 @@ Critical thinking notes (Paul's Standards) are shown throughout.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Screenshots
+<img width="1460" height="719" alt="1" src="https://github.com/user-attachments/assets/b9a233af-cf5e-4dae-be2b-e420ba38e50d" />
+<img width="1460" height="1169" alt="2" src="https://github.com/user-attachments/assets/8e38d55b-27f7-42e9-9b5b-c4f0084b1754" />
+<img width="1460" height="1094" alt="3" src="https://github.com/user-attachments/assets/60afc47a-f49b-4bb7-9bac-133f24b81a84" />
+
 
 ## Files
 - `app.py` — Main Streamlit application
