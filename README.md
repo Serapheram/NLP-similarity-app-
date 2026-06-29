@@ -14,16 +14,13 @@ Enter words or short phrases and explore:
 Critical thinking notes (Paul's Standards) are shown throughout.
 
 ## Streamlit App Link
-> *(Add your Streamlit Community Cloud link here after deployment)*
+> https://z9afsuyathmt78maa2wdxi.streamlit.app
 
 ## How to Run Locally
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 ```
-
-## Screenshots
-> *(Add screenshots after deployment)*
 
 ## Files
 - `app.py` — Main Streamlit application
