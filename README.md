@@ -19,7 +19,7 @@ Critical thinking notes (Paul's Standards) are shown throughout.
 ## How to Run Locally
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+streamlit run Theapp.py
 ```
 ## Screenshots
 <img width="1460" height="719" alt="1" src="https://github.com/user-attachments/assets/b9a233af-cf5e-4dae-be2b-e420ba38e50d" />
@@ -28,6 +28,6 @@ streamlit run app.py
 
 
 ## Files
-- `app.py` — Main Streamlit application
+- `Theapp.py` — Main Streamlit application
 - `requirements.txt` — Required libraries
 - `README.md` — This file
